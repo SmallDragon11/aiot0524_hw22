@@ -14,7 +14,7 @@
    * C:> git config --global user.name "Huan Chen"
    * C:> git config --global user.email huanchen1107@gmail.com
    
-7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
+7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git
 
 if you want to change
 git remote add origin https://github.com/huanchen1107/aiot_hw5.git
@@ -32,3 +32,5 @@ git remote set-url origin git@github.com:User/UserRepo.git
 -- below will push your code to the master branch of the remote repository defined with origin and -u let you point your current local branch to the remote master branch:
 
 git push -u origin master ''' 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+
+8. 在cmd shell上面打 flask run 就可開啟網站了 (網址: http://127.0.0.1:5000)
